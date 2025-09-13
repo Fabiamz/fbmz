@@ -24,3 +24,4 @@ a2.adicionar_nota(9)
 a2.adicionar_nota(8.5)
 a2.adicionar_nota(10)
 print(a2.mostrar_info())
+#🏄‍♂️
